@@ -1,0 +1,47 @@
+.main {
+  min-height: calc(100vh - 100px);
+}
+
+
+
+//DISPLAY
+.d-none {
+  display: none;
+}
+
+// MARGIN
+// Top
+.mt-xs {
+  margin-top: 1rem;
+}
+
+.mt-sm {
+  margin-top: 2rem;
+}
+
+
+// Bottom
+.mb-none {
+  margin-bottom: 0;
+}
+
+.mb-xs {
+  margin-bottom: 1rem;
+}
+
+.mb-sm {
+  margin-bottom: 2rem;
+}
+
+
+// PADDİNG
+// Top
+
+// Bottom
+.pb-none {
+  padding-bottom: 0;
+}
+
+.pb-xs {
+  padding-bottom: 1rem;
+}
